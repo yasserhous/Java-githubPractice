@@ -1,7 +1,9 @@
-public class HelloWworld{
+public class HelloWorld
+{
 
-  public static void main(){
-    System.out.printl("hello world");
+  public static void main()
+  {
+    System.out.print("hello world!!!!");
   }
- }
+ 
 }
